@@ -1,33 +1,100 @@
 {
-  "bg": "https://cdn.pixabay.com/photo/2015/12/22/08/06/face-1103708_960_720.jpg",
-  "title": "Quiz CSS da Alura",
-  "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+  "bg": "https://cdn.pixabay.com/photo/2015/07/09/19/32/dog-838281_960_720.jpg",
+  "title": "Quiz Pet #AluraQuiz",
+  "description": "Conhece meu dog? Teste seus conhecimentos sobre os fofíssimos Pets 🐾 dos amigos!",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
-      "answer": 2,
+      "image": "https://i.makeagif.com/media/10-15-2015/FD96ut.gif",
+      "title": "Sobre os tutus de Dátila e Lucas...Quantas vezes a Lalálala fugiu?",
+      "description": "Vamos lá:",
+      "answer": 4,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Lalálala nunca fugiu;",
+        "23;",
+        "18;",
+        "Já perdi a conta."
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
-      "answer": 0,
+      "image": "https://cdn.diarioonline.com.br/img/Artigo-Destaque/600000/vira-lata_00600786_0_.jpg?xid=1334315",
+      "title": "Quanto pagamos de recompensa pelas informações da Lalálala?",
+      "description": "Mais uma:",
+      "answer": 4,
       "alternatives": [
-         "background: linear-gradient(#e66465, #9198e5);",
-         "background: gradient(#e66465, #9198e5);"
+         "R$1.000,00;",
+         "voltou sozinha;",
+         "pagaram para devolver;",
+         "R$0,00."
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUNd9DHbXN17q9zbCE/giphy.gif",
+      "title": "O Tovi fala com humanos?",
+      "description": "Auuuu",
+      "answer": 3,
+      "alternatives": [
+        "sim;",
+        "não;",
+        "só se estiver interessado."
+      ]
+    },
+    {
+      "image": "https://vejasp.abril.com.br/wp-content/uploads/2016/12/anigif_enhanced-10028-1395091117-13.gif",
+      "title": "Sobre a Amora de Fabrício e Carol... Qual a medida comparativa?",
+      "description": "Chute!",
+      "answer": 4,
+      "alternatives": [
+        "ela é do tamanho de uma garrafa de cerveja;",
+        "maior que um rato e menor que um pinscher;",
+        "depende do horário que medir;",
+        "nenhuma das alternativas."
+      ]
+    },
+    {
+      "image": "https://memesengracados.net/wp-content/uploads/2020/10/pinscher-chorando.gif",
+      "title": "Quem é o humano predileto da Amora?",
+      "description": "🤯",
+      "answer": 1,
+      "alternatives": [
+        "Fabrício;",
+        "Carol;",
+        "Isadora;",
+        "Quem criou este Quiz?"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/xUNd9DHbXN17q9zbCE/giphy.gif",
+      "title": "Agora, sobre a princesa da Dayane:Luna! Ela já andou na pituquinha?",
+      "description": "🛵",
+      "answer": 1,
+      "alternatives": [
+        "Sim;",
+        "Não."
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/3a02bd231caf8af4308605381f910816/tenor.gif?itemid=10112420",
+      "title": "Maressinha tem um dog de nome Tequila?",
+      "description": "Será?",
+      "answer": 1,
+      "alternatives": [
+        "Sim;",
+        "Não."
+      ]
+    },
+    {
+      "image": "https://media.tenor.com/images/0fbb353203357d10c5a68772e2e08ceb/tenor.gif",
+      "title": "Quanto a Gi... As gatas dela  veem esperítos?",
+      "description": "OH",
+      "answer": 1,
+      "alternatives": [
+        "Sim;",
+        "Não."
       ]
     }
   ],
   "external": [
-    ""
+    "https://quiz-react.brenoha.vercel.app/"
   ],
   "theme": {
     "colors": {
@@ -38,6 +105,6 @@
       "wrong": "#FF5722",
       "success": "#4CAF50"
     },
-    "borderRadius": "4px"
+    "borderRadius": "80px"
   }
 }
