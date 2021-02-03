@@ -7,89 +7,96 @@
       "image": "https://i.makeagif.com/media/10-15-2015/FD96ut.gif",
       "title": "Sobre os tutus de Dátila e Lucas...Quantas vezes a Lalálala fugiu?",
       "description": "Vamos lá:",
-      "answer": 4,
+      "answer": 3,
       "alternatives": [
         "Lalálala nunca fugiu;",
         "23;",
         "18;",
-        "Já perdi a conta."
+        "Já perdi a conta;"
       ]
     },
     {
       "image": "https://cdn.diarioonline.com.br/img/Artigo-Destaque/600000/vira-lata_00600786_0_.jpg?xid=1334315",
       "title": "Quanto pagamos de recompensa pelas informações da Lalálala?",
       "description": "Mais uma:",
-      "answer": 4,
+      "answer": 2,
       "alternatives": [
          "R$1.000,00;",
-         "voltou sozinha;",
-         "pagaram para devolver;",
-         "R$0,00."
+         "Voltou sozinha;",
+         "Pagaram para devolver;",
+         "R$0,00;"
       ]
     },
     {
       "image": "https://media.giphy.com/media/xUNd9DHbXN17q9zbCE/giphy.gif",
       "title": "O Tovi fala com humanos?",
       "description": "Auuuu",
-      "answer": 3,
+      "answer": 1,
       "alternatives": [
-        "sim;",
-        "não;",
-        "só se estiver interessado."
+        "Sim;",
+        "Se estiver interessado;",
+        "Não;",
+        "Depende do idioma;"
       ]
     },
     {
       "image": "https://vejasp.abril.com.br/wp-content/uploads/2016/12/anigif_enhanced-10028-1395091117-13.gif",
       "title": "Sobre a Amora de Fabrício e Carol... Qual a medida comparativa?",
       "description": "Chute!",
-      "answer": 4,
+      "answer": 2,
       "alternatives": [
-        "ela é do tamanho de uma garrafa de cerveja;",
-        "maior que um rato e menor que um pinscher;",
-        "depende do horário que medir;",
-        "nenhuma das alternativas."
+        "Ela é do tamanho de uma garrafa de cerveja;",
+        "Depende do horário que medir;",
+        "Maior que um rato e menor que um pinscher;",
+        "Nenhuma das alternativas;"
       ]
     },
     {
       "image": "https://memesengracados.net/wp-content/uploads/2020/10/pinscher-chorando.gif",
       "title": "Quem é o humano predileto da Amora?",
       "description": "🤯",
-      "answer": 1,
+      "answer": 3,
       "alternatives": [
         "Fabrício;",
         "Carol;",
         "Isadora;",
-        "Quem criou este Quiz?"
+        "Quem criou este Quiz?;"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/xUNd9DHbXN17q9zbCE/giphy.gif",
+      "image": "https://i.pinimg.com/originals/6b/52/bc/6b52bcbea6969ef1965dd775e424fc53.gif",
       "title": "Agora, sobre a princesa da Dayane:Luna! Ela já andou na pituquinha?",
       "description": "🛵",
       "answer": 1,
       "alternatives": [
+        "Não;",
         "Sim;",
-        "Não."
+        "Ela até pilotou!",
+        "Faz parte de um grupo de motociclista;"
       ]
     },
     {
       "image": "https://media1.tenor.com/images/3a02bd231caf8af4308605381f910816/tenor.gif?itemid=10112420",
       "title": "Maressinha tem um dog de nome Tequila?",
       "description": "Será?",
-      "answer": 1,
+      "answer": 3,
       "alternatives": [
-        "Sim;",
-        "Não."
+        "Não;",
+        "Não é possível;",
+        "Talvez;",
+        "Sim;"
       ]
     },
     {
       "image": "https://media.tenor.com/images/0fbb353203357d10c5a68772e2e08ceb/tenor.gif",
-      "title": "Quanto a Gi... As gatas dela  veem esperítos?",
+      "title": "Quanto a Gi... As gatas dela  veem espíritos?",
       "description": "OH",
       "answer": 1,
       "alternatives": [
+        "Não;",
         "Sim;",
-        "Não."
+        "Inclusive, frequentam o grupo especializado;"
+
       ]
     }
   ],
@@ -98,13 +105,14 @@
   ],
   "theme": {
     "colors": {
-      "primary": "#0d47a1",
-      "secondary": "#29b6f6",
-      "mainBg": "#171B35",
+      "primary": "#880e4f",
+      "secondary": "#bc477b",
+      "mainBg": "#560027",
       "contrastText": "#FFFFFF",
       "wrong": "#FF5722",
       "success": "#4CAF50"
+      
     },
-    "borderRadius": "80px"
+    "borderRadius": "50px"
   }
 }
