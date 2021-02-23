@@ -1,10 +1,14 @@
-# AluraQuiz
+# AluraQuiz 
+## Course
 
-Quiz contruído com muito carinho na imersão React Alura.
+Quiz contruído na imersão React Alura com React, JS, CSS, HTML
 
-Tema:
+Tema: Para matar um pouco da saudade dos amigos e Pets criei este Quiz com muuuiittooo carinho <3
 
-Para matar um pouco da saudade dos amigos e Pets criei este Quiz com muuuiittooo carinho <3
+Acesse em https://quizpetamigos.datilasilva.vercel.app/
+
+![Profile](https://github.com/datilasilva/quizpet/blob/main/preject.REACT.png)
+
 
 
 # Contribuidores 
